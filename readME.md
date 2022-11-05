@@ -1,1 +1,1 @@
-This news application was built with nodejs for the backend, ejs as a view engine, and html, css and vanilla javascript for the front end.
+This news application was built with nodejs for the backend, ejs as a view engine, and html, css and vanilla javascript for the front end consuming the newsAPI.
